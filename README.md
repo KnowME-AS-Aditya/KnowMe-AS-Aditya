@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Aditya%20Ranjan%20Sahoo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20IoT%20Systems%20Engineer&descAlignY=58&descColor=c7c3ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Aditya+Ranjan+Sahoo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -249,6 +250,10 @@ Tested via Bruno and Postman. Clean project structure, documented README.
 
 🏆 **First Prize** — IOTMANIA, Elysium 2025, SOA University (Alive Human Detection Bot)
 
+💻 Took part in multiple hackathons with production grade architecture.
+
+📝 PART OF MULTIPLE Projects in IOT domain across Uni course work
+
 🎖️ **TCS Prime** — Offer holder (recognition of academic and engineering performance)
 
 ---
@@ -281,7 +286,7 @@ Tested via Bruno and Postman. Clean project structure, documented README.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KnowME-AS-Aditya&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=KnowME-AS-Aditya&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
 
 </div>
 
