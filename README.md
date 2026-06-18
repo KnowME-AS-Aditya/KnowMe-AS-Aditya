@@ -285,7 +285,7 @@ Tested via Bruno and Postman. Clean project structure, documented README.
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KnowME-AS-Aditya&theme=tokyonight&column=4&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KnowME-AS-Aditya&theme=tokyonight" width="100%" alt="Profile Summary" />
 </div>
 
 
