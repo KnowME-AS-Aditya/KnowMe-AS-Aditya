@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Aditya+Ranjan+Sahoo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&customColorList=0,2,2,5,30&height=180&section=header&text=Aditya+Ranjan+Sahoo&fontSize=42&fontColor=00ff9f&animation=fadeIn&fontAlignY=40&desc=Backend+Systems+·+IoT+Pipelines+·+Edge+Computing&descSize=14&descFontColor=888888&descAlignY=65" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Backend+Systems+%7C+IoT+Pipelines;Python+%7C+Java+%7C+FastAPI+%7C+Spring+Boot;Edge+Computing+%7C+MQTT+%7C+REST+APIs;Building+reliable+systems+from+sensors+to+dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Backend+%2B+IoT+Engineer;%24+stack+%E2%86%92+Python+%7C+Java+%7C+FastAPI+%7C+Spring+Boot;%24+domain+%E2%86%92+Edge+Computing+%7C+MQTT+%7C+REST+APIs;%24+mission+%E2%86%92+sensors+%E2%86%92+cloud+%E2%86%92+dashboard" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-aditya--portfolio--v2.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-portfolio-v2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aditya--portfolio--v2.vercel.app-00ff9f?style=for-the-badge&logo=vercel&logoColor=black)](https://aditya-portfolio-v2.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Ranjan%20Sahoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ranjan-sahoo-277722259)
-[![Email](https://img.shields.io/badge/Email-adityaen.official101@gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaen.official101@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adityaen.official101@gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=black)](mailto:adityaen.official101@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KnowME--AS--Aditya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KnowME-AS-Aditya)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KnowME-AS-Aditya&style=for-the-badge&color=6C63FF)](https://github.com/KnowME-AS-Aditya)
-[![GitHub Followers](https://img.shields.io/github/followers/KnowME-AS-Aditya?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/KnowME-AS-Aditya?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/KnowME-AS-Aditya?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/KnowME-AS-Aditya)
+<!-- SIGNAL BADGES — meaningful live indicators replacing vanity counters -->
+[![Last Commit](https://img.shields.io/github/last-commit/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter?style=for-the-badge&color=00ff9f&logo=github&label=Last+Push)](https://github.com/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter)
+[![Open Issues](https://img.shields.io/github/issues/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter?style=for-the-badge&color=ff6b6b&logo=github&label=Open+Issues)](https://github.com/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter/issues)
+[![Repo Count](https://img.shields.io/badge/Public%20Repos-Explore-00ff9f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KnowME-AS-Aditya?tab=repositories)
 
 📍 India &nbsp;|&nbsp; 🎓 B.Tech CSE &nbsp;|&nbsp; 🏢 ADP Alumni · TCS Prime
 
@@ -29,7 +29,7 @@
 
 ---
 
-## About Me
+## `> about`
 
 I build backend systems that move data reliably — from embedded sensors through cloud APIs to real-time dashboards.
 
@@ -47,7 +47,7 @@ interests:       Distributed Systems · Edge ML · REST API Design · IoT Teleme
 
 ---
 
-## Tech Stack
+## `> stack`
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ interests:       Distributed Systems · Edge ML · REST API Design · IoT Teleme
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-00ff9f?style=for-the-badge&logo=postman&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -97,100 +97,61 @@ interests:       Distributed Systems · Edge ML · REST API Design · IoT Teleme
 
 ---
 
-## Core Expertise
+## `> expertise`
 
-| Area | Proficiency | Repository Evidence | Notes |
-|------|-------------|---------------------|-------|
-| REST API Design | ★★★★☆ | Products_springIO, Node.Aurion, Rf-spectrum | FastAPI + Spring Boot |
-| IoT Telemetry Pipelines | ★★★★★ | Node.Aurion, Alive_human_detection_bot | MQTT → Cloud → Dashboard |
-| Embedded Systems | ★★★★☆ | Alive_human_detection_bot (ESP32), ArtFlowPi (Pi) | C++, Python |
-| JWT / Auth | ★★★☆☆ | SpringAuth_initial, ADP internship | Spring Security |
-| ML Pipeline Integration | ★★★☆☆ | Rf-spectrum (PyTorch Conv-AE), Node.Aurion (sklearn) | Inference in FastAPI |
-| Computer Vision | ★★★☆☆ | ArtFlowPi | MediaPipe + OpenCV |
-| Java / Spring Boot | ★★★★☆ | Products_springIO, SpringAuth_initial, ADP | REST + Auth |
-| Database Design | ★★★☆☆ | Node.Aurion (4-table SQLite schema) | ORM, CRUD, async |
-| System Architecture | ★★★★☆ | Rf-spectrum (edge-cloud), Node.Aurion | Documented in READMEs |
-| CI/CD (Jenkins) | ★★★☆☆ | ADP internship | SonarQube + Jenkins |
+> Evidence drawn from repository code, READMEs, and internship deliverables — not self-assessment.
+
+| Area | Evidence | Where |
+|------|----------|--------|
+| **REST API Design** | Versioned endpoints, async handlers, Pydantic schemas, Postman collections | [Rf-spectrum](https://github.com/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter) · [Node.Aurion](https://github.com/KnowME-AS-Aditya/Node.Aurion-Edge-iot-telemetry-and-remote-monitoring) · [Products\_springIO](https://github.com/KnowME-AS-Aditya/Products_springIO) |
+| **IoT Telemetry Pipelines** | Edge → MQTT → cloud → dashboard, full data flow implemented end-to-end | [Node.Aurion](https://github.com/KnowME-AS-Aditya/Node.Aurion-Edge-iot-telemetry-and-remote-monitoring) · [Alive\_bot](https://github.com/KnowME-AS-Aditya/Alive_human_detection_bot) |
+| **Embedded Systems** | Sensor fusion (5 modalities), I2C bus, real-time loop on ESP32 & Raspberry Pi | [Alive\_bot](https://github.com/KnowME-AS-Aditya/Alive_human_detection_bot) · [ArtFlowPi](https://github.com/KnowME-AS-Aditya/ArtFlowPi) |
+| **JWT / Auth** | Spring Security JWT filter chain, role-based access, auth endpoints | [SpringAuth\_initial](https://github.com/KnowME-AS-Aditya/SpringAuth_initial) · ADP internship |
+| **ML Pipeline Integration** | Conv-AE training + inference served via FastAPI, Grad-CAM attribution | [Rf-spectrum](https://github.com/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter) |
+| **Computer Vision** | MediaPipe landmark detection, gesture-to-stroke mapping, webcam pipeline | [ArtFlowPi](https://github.com/KnowME-AS-Aditya/ArtFlowPi) |
+| **Java / Spring Boot** | RESTful controllers, Lombok DTOs, service layers, H2/MySQL persistence | [Products\_springIO](https://github.com/KnowME-AS-Aditya/Products_springIO) · ADP (IS-SBS) |
+| **Database Design** | 4-table normalized SQLite schema, async SQLAlchemy ORM, CRUD via FastAPI | [Node.Aurion](https://github.com/KnowME-AS-Aditya/Node.Aurion-Edge-iot-telemetry-and-remote-monitoring) |
+| **System Architecture** | Edge-cloud hybrid docs, sequence diagrams, latency targets defined in READMEs | [Rf-spectrum](https://github.com/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter) · [Node.Aurion](https://github.com/KnowME-AS-Aditya/Node.Aurion-Edge-iot-telemetry-and-remote-monitoring) |
+| **CI/CD** | Jenkins pipeline configuration, SonarQube quality gate integration | ADP internship (IS-SBS) |
 
 ---
 
-## Featured Projects
+## `> projects`
 
 <details>
-<summary><b>🏆 Alive Human Detection Bot</b> — Award-Winning IoT System</summary>
+<summary><b>🏆 Alive Human Detection Bot</b> — Award-Winning IoT System · First Prize @ IOTMANIA 2025</summary>
 
-**First Prize @ IOTMANIA, Elysium 2025 · SOA University**
+Multi-sensor ESP32 system for human presence detection in disaster scenarios. Five sensor modalities (heart rate, PIR, ultrasonic, gas, thermal) fused to reduce false positives, streaming live telemetry to Grafana Cloud via MQTT with Blynk remote control. Designed with zero infrastructure dependency for field deployment.
 
-A multi-sensor embedded system designed to detect human presence in disaster scenarios (fire evacuations, search & rescue), streaming live telemetry to a cloud dashboard with remote alerts.
-
-**Tech Stack**
 `ESP32` `Embedded C++` `MQTT` `Grafana Cloud` `Blynk` `I2C`
 
-**Sensors**: MAX30102 (heart rate/SpO2) · PIR · HC-SR04 (ultrasonic) · MQ-2 (gas) · MLX90614 (thermal)
-
-**Engineering highlights**:
-- Sensor fusion logic to reduce false positives across 5 sensor modalities
-- Real-time cloud telemetry via MQTT with Grafana visualization
-- Remote control interface via Blynk App
-- Designed for environments with no infrastructure dependency
-
-| Complexity | Status | Stars | Repository |
-|-----------|--------|-------|------------|
-| High | Deployed (Hardware) | ⭐ 2 | [View →](https://github.com/KnowME-AS-Aditya/Alive_human_detection_bot) |
+→ Full architecture, sensor wiring, and calibration details in the [project README](https://github.com/KnowME-AS-Aditya/Alive_human_detection_bot)
 
 </details>
 
 ---
 
 <details>
-<summary><b>📡 Rf-Spectrum Anomaly Hunter</b> — Edge-Native Unsupervised Deep Learning</summary>
+<summary><b>📡 Rf-Spectrum Anomaly Hunter</b> — Edge-Native Unsupervised Deep Learning · Final Year Capstone</summary>
 
-Final Year Capstone · B.Tech CSE · Production-ready research prototype
+Monitors the 433 MHz ISM band, learns the normal RF fingerprint of authorized IoT devices, and flags anomalous transmitters via a Convolutional Autoencoder with Grad-CAM explainability. RTL-SDR on a Pi Zero 2W publishes FFT spectrograms over MQTT; FastAPI cloud backend runs inference and streams alerts to a WebSocket dashboard. End-to-end latency target: < 1.5 s ✅
 
-An unsupervised deep learning system that monitors the 433 MHz ISM radio spectrum, learns the normal RF fingerprint baseline of authorized IoT devices, and flags anomalous transmitters using a Convolutional Autoencoder — with Grad-CAM explainability heatmaps.
+`Python` `PyTorch` `FastAPI` `Raspberry Pi Zero 2W` `RTL-SDR` `React` `HiveMQ` `InfluxDB`
 
-**Tech Stack**
-`Python` `PyTorch` `FastAPI` `Raspberry Pi Zero 2W` `RTL-SDR` `React` `HiveMQ MQTT` `InfluxDB`
-
-**Architecture** (Edge-Cloud Hybrid):
-- **Edge**: RTL-SDR captures I/Q samples → FFT → 1024×64 spectrogram → MQTT publish
-- **Cloud**: FastAPI receives → Conv-AE inference → Grad-CAM → anomaly alert → WebSocket dashboard
-- **Target latency**: < 1.5 seconds end-to-end ✅
-
-**Core Innovations**:
-- Unsupervised learning — no labeled training data required
-- Physical-layer detection (catches threats before network connection)
-- Explainable AI: Grad-CAM frequency-domain attribution
-- Open dataset contribution (first public 433 MHz IoT anomaly dataset)
-
-| Complexity | Status | Stars | Repository |
-|-----------|--------|-------|------------|
-| Very High | Active Development | ⭐ 1 | [View →](https://github.com/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter) |
+→ Architecture diagrams, model design, and dataset details in the [project README](https://github.com/KnowME-AS-Aditya/Rf-spectrum-anomaly-hunter)
 
 </details>
 
 ---
 
 <details>
-<summary><b>🌐 Node.Aurion</b> — IoT Telemetry Pipeline with ML Inference</summary>
+<summary><b>🌐 Node.Aurion</b> — IoT Telemetry Platform with ML Inference</summary>
 
-A complete IoT telemetry platform for solar panel monitoring. Ingests sensor data via MQTT, processes it through a FastAPI backend with hot-swappable ML models, persists to SQLite, and streams enriched telemetry to a live dashboard via WebSocket.
+Solar panel telemetry platform: Raspberry Pi → MQTT → FastAPI backend → SQLite (4-table schema) → anomaly detection + power prediction via scikit-learn → WebSocket dashboard. Hot-swappable ML model architecture, REST API for device and telemetry queries.
 
-**Tech Stack**
 `Python 3.11` `FastAPI` `SQLite` `MQTT (HiveMQ Cloud)` `WebSocket` `scikit-learn` `Raspberry Pi`
 
-**Data flow**:
-```
-Raspberry Pi → MQTT → FastAPI → SQLite → ML Inference → WebSocket → Browser Dashboard
-```
-
-**Backend modules**: MQTT consumer · Async DB (4-table schema) · ML service (anomaly + power prediction) · REST API · WebSocket broadcaster
-
-**REST API**: `/api/telemetry/latest` · `/api/devices` · `/api/database/stats` · `ws://host:8000/ws/live`
-
-| Complexity | Status | Repository |
-|-----------|--------|------------|
-| High | Capstone | [View →](https://github.com/KnowME-AS-Aditya/Node.Aurion-Edge-iot-telemetry-and-remote-monitoring) |
+→ Data flow, API reference, and DB schema in the [project README](https://github.com/KnowME-AS-Aditya/Node.Aurion-Edge-iot-telemetry-and-remote-monitoring)
 
 </details>
 
@@ -199,17 +160,11 @@ Raspberry Pi → MQTT → FastAPI → SQLite → ML Inference → WebSocket → 
 <details>
 <summary><b>🖌️ ArtFlowPi</b> — AI Virtual Painter (Computer Vision)</summary>
 
-An interactive drawing system that translates hand gestures into real-time canvas strokes using computer vision — no touchscreen or mouse required.
+Real-time gesture-to-canvas drawing on Raspberry Pi using MediaPipe hand landmark detection and OpenCV. No touchscreen or mouse required. Brush color and eraser controlled via gesture zones.
 
-**Tech Stack**: `Python` `OpenCV` `MediaPipe` `NumPy` `Raspberry Pi`
+`Python` `OpenCV` `MediaPipe` `NumPy` `Raspberry Pi`
 
-- Real-time webcam processing at minimal latency
-- MediaPipe hand landmark detection with gesture-to-stroke mapping
-- Brush color selection and eraser via gesture control
-
-| Complexity | Stars | Repository |
-|-----------|-------|------------|
-| Medium | ⭐ 1 | [View →](https://github.com/KnowME-AS-Aditya/ArtFlowPi) |
+→ [View Repository](https://github.com/KnowME-AS-Aditya/ArtFlowPi)
 
 </details>
 
@@ -218,23 +173,17 @@ An interactive drawing system that translates hand gestures into real-time canva
 <details>
 <summary><b>☕ Products_springIO</b> — Spring Boot REST API</summary>
 
-A RESTful product management API built as a practical Spring Boot learning project.
+Foundational Spring Boot product management API. Demonstrates controller-service-repository layering, Lombok DTOs, and Postman/Bruno test collections. Clean project structure with documented endpoints.
 
-**Tech Stack**: `Java 21` `Spring Boot 3.5` `Spring Web` `Lombok` `Postman`
+`Java 21` `Spring Boot 3.5` `Spring Web` `Lombok`
 
-**Endpoints**: `GET /products` · `POST /products` · `GET /products/{id}`
-
-Tested via Bruno and Postman. Clean project structure, documented README.
-
-| Complexity | Repository |
-|-----------|------------|
-| Foundational | [View →](https://github.com/KnowME-AS-Aditya/Products_springIO) |
+→ [View Repository](https://github.com/KnowME-AS-Aditya/Products_springIO)
 
 </details>
 
 ---
 
-## Experience
+## `> experience`
 
 | Role | Organization | Period | Technologies |
 |------|-------------|--------|-------------|
@@ -246,62 +195,57 @@ Tested via Bruno and Postman. Clean project structure, documented README.
 
 ---
 
-## Achievements
+## `> achievements`
 
 🏆 **First Prize** — IOTMANIA, Elysium 2025, SOA University (Alive Human Detection Bot)
 
-💻 Took part in multiple hackathons with production grade architecture.
-
-📝 PART OF MULTIPLE Projects in IOT domain across Uni course work
-
 🎖️ **TCS Prime** — Offer holder (recognition of academic and engineering performance)
+
+💻 Multiple hackathon participations with production-grade architecture
+
+📡 First public 433 MHz IoT anomaly dataset (Rf-spectrum capstone contribution)
 
 ---
 
-## Coding Profiles
+## `> coding_profiles`
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-LastRhawk9030-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/LastRhawk9030)
 
 ---
 
-## GitHub Analytics
+## `> analytics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KnowME-AS-Aditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c7c3ff&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KnowME-AS-Aditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c7c3ff&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowME-AS-Aditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c7c3ff&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowME-AS-Aditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c7c3ff&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KnowME-AS-Aditya&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=KnowME-AS-Aditya&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" width="60%"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## `> activity`
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KnowME-AS-Aditya&theme=tokyonight" width="100%" alt="Profile Summary" />
 </div>
 
-
----
-
-## Contribution Graph
-
 <div align="center">
 
-[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KnowME-AS-Aditya&bg_color=0d1117&color=6C63FF&line=6C63FF&point=c7c3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KnowME-AS-Aditya&bg_color=0d1117&color=00ff9f&line=00ff9f&point=c7c3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## Contribution Snake
+## `> contribution_snake`
 
 <div align="center">
 
@@ -315,7 +259,7 @@ Tested via Bruno and Postman. Clean project structure, documented README.
 
 ---
 
-## Current Focus
+## `> current_focus`
 
 ```yaml
 learning:
@@ -341,13 +285,13 @@ open_to:
 
 ---
 
-## Connect
+## `> connect`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/adityaen.official101@gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaen.official101@gmail.com)
+[![Email](https://img.shields.io/badge/adityaen.official101@gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=black)](mailto:adityaen.official101@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ranjan-sahoo-277722259)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-portfolio-v2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff9f?style=for-the-badge&logo=vercel&logoColor=black)](https://aditya-portfolio-v2.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KnowME-AS-Aditya)
 
 </div>
@@ -358,6 +302,6 @@ open_to:
 
 *"The measure of a system is not how it performs at its best, but how it behaves at its edges."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 
 </div>
